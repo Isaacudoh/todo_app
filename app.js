@@ -16,5 +16,4 @@ function createItem(x) {
 
 function deleteItem(elementToDelete){
     elementToDelete.parentElement.remove()
-    
 }
